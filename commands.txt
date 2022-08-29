@@ -2,4 +2,5 @@ git init
 git status
 git add -A
 git commit -m "initial commit"
-git log -ithrem neram chythath varan
+git log 
+git remote add name path
